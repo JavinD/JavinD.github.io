@@ -2,12 +2,12 @@
   {
     "popular": [
       {
-        "name": "Fried Rice",
+        "name": "Nasi Goreng",
         "imageUrl": "https://mpng.subpng.com/20180225/hye/kisspng-yangzhou-fried-rice-nasi-goreng-chinese-cuisine-st-fried-rice-5a93398ae03c90.0598621015195979629185.jpg",
         "rating": "5.0",
         "deliveryTime": "45 mins",
         "deliveryCharges": "Free Delivery",
-        "price": "150",
+        "price": "15000",
         "note": "Extra special"
       },
       {
@@ -16,7 +16,7 @@
         "rating": "4.9",
         "deliveryTime": "35 mins",
         "deliveryCharges": "Free Delivery",
-        "price": "250",
+        "price": "25000",
         "note": "Special"
       },
       {
@@ -25,7 +25,7 @@
         "rating": "4.5",
         "deliveryTime": "55 mins",
         "deliveryCharges": "Free Delivery",
-        "price": "199",
+        "price": "10000",
         "note": "Chilly"
       },
 {
@@ -34,7 +34,7 @@
         "rating": "4.0",
         "deliveryTime": "75 mins",
         "deliveryCharges": "Free Delivery",
-        "price": "150",
+        "price": "6000",
         "note": "Special"
       },
       {
@@ -43,7 +43,45 @@
         "rating": "3.8",
         "deliveryTime": "25 mins",
         "deliveryCharges": "Free Delivery",
-        "price": "150",
+        "price": "12000",
+        "note": "Spicy"
+      }
+    ],
+    "drinks": [
+      {
+        "name": "Es Cendol",
+        "imageUrl": "https://whattocooktoday.com/wp-content/uploads/2013/08/es-cendol-1-500x500.jpg",
+        "rating": "4.5",
+        "deliveryTime": "55 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "10000",
+        "note": "Chilly"
+      },
+      {
+        "name": "Es Kopi",
+        "imageUrl": "https://ds393qgzrxwzn.cloudfront.net/resize/c500x500/cat1/img/images/0/5KcTSbBzZL.jpg",
+        "rating": "4.0",
+        "deliveryTime": "15 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "6000",
+        "note": "Special"
+      },
+      {
+        "name": "Es Jeruk",
+        "imageUrl": "https://malltronik.com/merchant/assets_admin/assets/images/merchant/IMG120200219072145_fcPc.jpg",
+        "rating": "4.5",
+        "deliveryTime": "55 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "10000",
+        "note": "Chilly"
+      },
+      {
+        "name": "Air Mineral",
+        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/popular4.png",
+        "rating": "4.7",
+        "deliveryTime": "25 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "5000",
         "note": "Spicy"
       }
     ],
@@ -54,7 +92,7 @@
         "rating": "5.0",
         "deliveryTime": "45 mins",
         "deliveryCharges": "Free Delivery",
-        "price": "150",
+        "price": "15000",
         "note": "Extra special"
       },
       {
@@ -63,7 +101,7 @@
         "rating": "4.9",
         "deliveryTime": "35 mins",
         "deliveryCharges": "Free Delivery",
-        "price": "250",
+        "price": "25000",
         "note": "Special"
       },
       {
@@ -71,8 +109,8 @@
         "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/popular3.png",
         "rating": "4.5",
         "deliveryTime": "55 mins",
-        "deliveryCharges": "Delivery charges 50 extra",
-        "price": "199",
+        "deliveryCharges": "Free Delivery",
+        "price": "20000",
         "note": "Chilly"
       },
       {
@@ -81,7 +119,7 @@
         "rating": "3.8",
         "deliveryTime": "25 mins",
         "deliveryCharges": "Free Delivery",
-        "price": "150",
+        "price": "12000",
         "note": "Spicy"
       }
     ]
