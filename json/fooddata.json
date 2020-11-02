@@ -122,6 +122,44 @@
         "price": "12000",
         "note": "Spicy"
       }
+    ],
+    "snacks": [
+      {
+        "name": "Bakso Goreng",
+        "imageUrl": "https://img-z.okeinfo.net/okz/500/library/images/2020/06/12/ba3dgqpijbtbn5lzh77d_19243.jpg",
+        "rating": "4.2",
+        "deliveryTime": "10 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "5000",
+        "note": "Chilly"
+      },
+      {
+        "name": "Rujak",
+        "imageUrl": "https://meccasnack.com/1.0/image/cache/catalog/produk/fastfood/rujak-cireng-patua-01-500x500.jpg",
+        "rating": "4.0",
+        "deliveryTime": "15 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "8000",
+        "note": "Special"
+      },
+      {
+        "name": "Bakwan Goreng",
+        "imageUrl": "https://ds393qgzrxwzn.cloudfront.net/resize/c500x500/cat1/img/images/0/a1dxVRyRUQ.jpg",
+        "rating": "4.5",
+        "deliveryTime": "10 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "5000",
+        "note": "Chilly"
+      },
+      {
+        "name": "Serabi",
+        "imageUrl": "https://img-z.okeinfo.net/okz/500/library/images/2019/05/15/pede58cx3nmj74cqut9z_17158.jpg",
+        "rating": "4.7",
+        "deliveryTime": "10 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "5000",
+        "note": "Spicy"
+      }
     ]
   }
 ]
