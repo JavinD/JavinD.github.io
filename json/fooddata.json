@@ -2,8 +2,8 @@
   {
     "popular": [
       {
-        "name": "Nasi Goreng",
-        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/popular1.png",
+        "name": "Fried Rice",
+        "imageUrl": "https://mpng.subpng.com/20180225/hye/kisspng-yangzhou-fried-rice-nasi-goreng-chinese-cuisine-st-fried-rice-5a93398ae03c90.0598621015195979629185.jpg",
         "rating": "5.0",
         "deliveryTime": "45 mins",
         "deliveryCharges": "Free Delivery",
@@ -12,7 +12,7 @@
       },
       {
         "name": "Rendang",
-        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/popular2.png",
+        "imageUrl": "https://img2.pngio.com/rendang-png-4-png-image-rendang-png-1024_609.png",
         "rating": "4.9",
         "deliveryTime": "35 mins",
         "deliveryCharges": "Free Delivery",
@@ -20,26 +20,26 @@
         "note": "Special"
       },
       {
-        "name": "Nasi Padang",
-        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/popular3.png",
+        "name": "Es Cendol",
+        "imageUrl": "https://whattocooktoday.com/wp-content/uploads/2013/08/es-cendol-1-500x500.jpg",
         "rating": "4.5",
         "deliveryTime": "55 mins",
-        "deliveryCharges": "Delivery charges 50 extra",
+        "deliveryCharges": "Free Delivery",
         "price": "199",
         "note": "Chilly"
       },
 {
-        "name": "Pece",
-        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/recommended3.png",
+        "name": "Es Kopi",
+        "imageUrl": "https://ds393qgzrxwzn.cloudfront.net/resize/c500x500/cat1/img/images/0/5KcTSbBzZL.jpg",
         "rating": "4.0",
         "deliveryTime": "75 mins",
         "deliveryCharges": "Free Delivery",
         "price": "150",
-        "note": "Special, Spicy"
+        "note": "Special"
       },
       {
         "name": "Indomie",
-        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/popular4.png",
+        "imageUrl": "https://files.sirclocdn.xyz/shop-luwes/products/_200402100829_INDOMIE%20MIE%20GORENG%20SPECIAL%2085GR_full.jpg",
         "rating": "3.8",
         "deliveryTime": "25 mins",
         "deliveryCharges": "Free Delivery",
